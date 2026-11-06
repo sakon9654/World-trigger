@@ -40,3 +40,6 @@ https://worldtrigger.fandom.com/wiki/Squads
 - Operator ชื่อและความสามารถ
 - จำนวนแต้มเริ่มต้นของทีม, วันลงแข่ง, อันดับ B ที่ได้รับ
 - Trigger loadout ของ Sniper และคะแนนเธอ
+
+## Knowledge gate — Bullet Line
+พระเอกมี Side Effect แฝงชื่อชั่วคราว **Bullet Line** แต่ทั้งเขาและเพื่อนร่วมทีมยังไม่รู้ในฉากเปิด; เหตุการณ์เริ่มค้นพบเกิด **หลังจากพระเอกใช้ Hound**. ไม่ให้ตัวละครใดใช้ข้อมูลความสามารถนี้เพื่อวางแผนก่อนพบหลักฐาน. ดู [[OC-Hidden-Side-Effect]].
