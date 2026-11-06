@@ -30,7 +30,7 @@ as_of: reference_snapshot_pre_future
 | #7 Miwa | Shūji Miwa (All-Rounder, captain); Yōsuke Yoneya (Attacker); Tōru Narasaka (Sniper); Shōhei Kodera (Sniper) | Ren Tsukimi |
 | #8 Katagiri | Takaaki Katagiri (Gunner, captain); Yukimaru Ichijō (Attacker); Tōichirō Momozono (Sniper); Asumi Amakura (Special Tactics) | Karin Yuitsuka |
 
-**หมายเหตุ:** รายการนี้ยังต้องตรวจ A-rank #9 รวมถึงการนับจำนวน A squad ใน chapter ที่ใช้ cutoff; การเปลี่ยนแปลงอันดับตามเวลาต้องเก็บเป็น snapshot แยก ห้ามเติมแถวเป็นข้อเท็จจริงโดยคาดเดา.
+**ตรวจแก้:** Border Briefing File มี A-rank #1 ถึง #8; Tamakoma First เป็นทีมระดับ A ที่ไม่เข้าร่วม Rank Wars (จึงนับเป็นทีมที่ 9 ได้ แต่ไม่มีอันดับ #9). แยกการนับจำนวนทีมออกจากอันดับให้ชัดเจน. แหล่งทางการ: https://books.shueisha.co.jp/items/contents.html?jdcn=08880704870809315501
 
 ## B-rank squads — upper/middle/lower snapshot
 | ทีม/อันดับ snapshot | เจ้าหน้าที่ / บทบาท | Operator |
@@ -49,17 +49,22 @@ as_of: reference_snapshot_pre_future
 | #12 Suwa | Kōtarō Suwa (Gunner, captain); Daichi Tsutsumi (Gunner); Hisato Sasamori (Attacker) | Rui Osano |
 | #13 Kakizaki | Kuniharu Kakizaki (All-Rounder, captain); Fumika Teruya (All-Rounder); Kotarō Tomoe (Gunner) | Madoka Ui |
 | #14 Urushima | Wataru Urushima (Gunner, captain) | Rika Rokuta |
-| #15 Ebina | Takahiro Ebina (All-Rounder, captain); Yukito Otokawa (Sniper); Shō Motegi (Attacker) | Sakurako Taketomi |
-| #16 Hayakawa | Satoru Hayakawa (All-Rounder, captain); Ryōgo Funabashi (Gunner); Seiji Marui (Gunner) | Asami Taya |
-| #17 Yoshizato | Yūichirō Yoshizato (Gunner, captain); Hidetaka Kitazoe (All-Rounder); Hanao Tsukimi (Attacker) | Asuka Asagiri |
+| #15 Ebina (season-ending snapshot; BBF #16) | Takahiro Ebina (All-Rounder, captain); Yukito Otokawa (Sniper); Shō Motegi (Attacker) | Sakurako Taketomi |
+| #16 Hayakawa (season-ending snapshot; BBF #19) | Satoru Hayakawa (All-Rounder, captain); Ryōgo Funabashi (Gunner); Seiji Marui (Gunner) | Asami Taya |
+| #17 Yoshizato (season-ending snapshot; BBF #20) | Yūichirō Yoshizato (Gunner, captain); Hidetaka Kitazoe (All-Rounder); Hanao Tsukimi (Attacker) | Asuka Asagiri |
 
-## B-rank squads ที่อันดับ snapshot ยังไม่แน่ชัด
-- Matsushiro: Hitoshi Matsushiro (Gunner/captain), Masakuni Hakoda (Trapper), Yūya Tsuchisaki (Attacker); Operator Ayumu Hatori.
-- Chano: Makoto Chano (Gunner/captain), Itsuki Fujisawa (Gunner); Operator Megumi Tokura.
-- Tokiwa: Mamoru Tokiwa (Attacker/captain), Tokiya Saitō (Sniper), Waka Utsunomiya (Gunner), Yoshinobu Kera (Attacker); Operator Hazuki Nanao.
-- Mamiya: Keizō Mamiya (Shooter/captain), Mitsuya Koinuma (Shooter), Minoru Hata (Shooter); Operator Aoi Kusumoto.
+## B-rank squads ที่อันดับ season-ending snapshot ยังไม่แน่ชัด
+- Matsushiro: BBF #15; later rank unconfirmed. Hitoshi Matsushiro (Gunner/captain), Masakuni Hakoda (Trapper), Yūya Tsuchisaki (Attacker); Operator Ayumu Hatori.
+- Chano: BBF #17; later rank unconfirmed. Makoto Chano (Gunner/captain), Itsuki Fujisawa (Gunner); Operator Megumi Tokura.
+- Tokiwa: BBF #18; later rank unconfirmed. Mamoru Tokiwa (Attacker/captain), Tokiya Saitō (Sniper), Waka Utsunomiya (Gunner), Yoshinobu Kera (Attacker); Operator Hazuki Nanao.
+- Mamiya: BBF #21; later rank unconfirmed. Keizō Mamiya (Shooter/captain), Mitsuya Koinuma (Shooter), Minoru Hata (Shooter); Operator Aoi Kusumoto.
 
 ## For future novel (author locked)
 - คุกะ ยูมะ: S-rank ใน **future continuity**; normal-human status; future Trigger loadout ยังไม่กำหนด.
 - โอซามุ + จิกะ + ฮิวส์: ทีม B ชั้นบนประสบการณ์สูง, ตามข้อตกลงผู้เขียน; อย่านำ Kuga ในรายชื่อ source snapshot มานับเป็นสมาชิก B squad อัตโนมัติ.
 - OC protagonist: ยังไม่กำหนด rank/squad/trigger.
+
+## Source time qualification (audit)
+- **BBF 2016 lower-B**: #14 Urushima; #15 Matsushiro; #16 Ebina; #17 Chano; #18 Tokiwa; #19 Hayakawa; #20 Yoshizato; #21 Mamiya. ยืนยันจากสารบัญ Shueisha (แหล่งปฐมภูมิ)
+- **End-of-season ranks** ในตารางข้างบนอาจเปลี่ยนจาก BBF; ใช้ป้ายเวลา ไม่ควรนำเลขสองช่วงมาผสมกันในฉากเดียว
+- Official BBF: https://books.shueisha.co.jp/items/contents.html?jdcn=08880704870809315501
