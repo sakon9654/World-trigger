@@ -7,7 +7,8 @@ status: draft
 # Border Research Hub
 
 ## Lookup order (for ChatGPT and Obsidian)
-1. [[Expanded_Roster]] — squad, role, source rank.
+0. **[[Chapter_196_Status_Matrix]] first** — temporal gate at locked canon cutoff; legacy roster may contain post-196 facts.
+1. [[Expanded_Roster]] — mixed-era research ONLY, NOT ch196 verified rank.
 2. [[BBF_Parameters]] — Trion and official databook combat/Operator parameters (not future).
 3. [[Agent_Loadouts]] — source Trigger Main/Sub (บางตัวละคร).
 4. [[Expanded_Agent_Triggers]] — มีการใช้ Trigger ชนิดใด + แนวการต่อสู้ (ไม่รับประกันสล็อต Main/Sub ครบ).
