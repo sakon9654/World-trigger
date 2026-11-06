@@ -28,7 +28,7 @@ audit_method: source_cross_check
 | AUD-005 | MEDIUM | Side Effect grade A/B/C/S เป็นระดับชนิดของพลัง ไม่ใช่อันดับ Border; คุกะเห็นการโกหกจากคำพูดที่ผู้พูดรู้อยู่แล้วว่าโกหก ไม่อ่านใจและไม่เห็นจากตัวหนังสือ | บันทึกแหล่ง manga Q&A และข้อจำกัดใน [[Side_Effects]] |
 | AUD-006 | MEDIUM | BBF ค่าสถานะจากหน้า wiki ถอดมาจากหนังสือและบางค่าจาก manga ภายหลัง; Trion ไม่ใช่ Combat Power และ Operator มีคนละสเกล | [[BBF_Parameters]] ยังเป็น working transcription; ห้ามใช้แทน T+4Y |
 | AUD-007 | MEDIUM | รายการ Trigger Users แสดง "เคยใช้" ไม่ได้ระบุ Main/Sub และบางกรณีเป็น former/prototype/anime-only | [[Expanded_Agent_Triggers]] ไม่ถือเป็น full equipped loadout |
-| AUD-008 | HIGH | Canon cutoff ของผู้เขียนยังระบุเป็นคำบรรยายเหตุการณ์ (กลุ่ม B ชั้นบนในการสอบรอบสุดท้าย) ยังไม่สามารถผูกเลข chapter | ห้ามตีเลขบทเอง; ทุกข้อมูลหลัง cutoff ต้องระบุ proposed until validated |
+| AUD-008 | RESOLVED | ผู้เขียนยืนยันจุดแยก Canon | **ล็อกจบตอน 196 (เล่ม 22)**; ตอน 197 เป็นต้นไปไม่ใช้เป็น source canon ของโปรเจกต์โดยอัตโนมัติ |
 
 ## จุดตรวจยืนยัน
 - Official Shueisha BBF contents: https://books.shueisha.co.jp/items/contents.html?jdcn=08880704870809315501 — ขอบเขต A-rank #1–#8, lower B-rank ใน BBF
@@ -43,7 +43,7 @@ audit_method: source_cross_check
 - Katagiri squad confirmation: https://worldtrigger.fandom.com/wiki/Katagiri_Squad
 
 ## Outstanding validation queue
-- [ ] ยืนยัน chapter cutoff จากคำอธิบายของผู้เขียน
+- [x] ผู้เขียนยืนยันจบตอน 196 เป็น canon cutoff (การตรวจรายละเอียดรายหน้าเป็นงานอีกส่วน)
 - [ ] ตรวจ A/B squad รายคนจากหน้าอ้างอิงเดิมและมังงะว่าไม่มีชื่อ/ตำแหน่งผิด รวมถึง time-dependent ranks
 - [ ] ตรวจ Main/Sub 8 สล็อตครบทุกคนจาก profiles ไม่ใช่ Trigger Users index
 - [ ] ตรวจ rank บุคคลว่ามีตัวเลข/เวลาชัดเจน ไม่ใช่อันดับทีม
