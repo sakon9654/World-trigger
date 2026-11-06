@@ -1,7 +1,7 @@
 # AI instructions — World Trigger future fanfiction
 Read `00_Project/Story_Bible.md` and `00_Project/Canon_Policy.md` before writing.
 
-This is an unofficial fanfiction with a NEW ORIGINAL PROTAGONIST (not Kuga, Osamu, Chika, or Hyuse). Their identity, ability, allegiance, and backstory remain undecided. Do NOT invent protagonist details as established facts.
+This is an unofficial fanfiction with a NEW ORIGINAL PROTAGONIST (not Kuga, Osamu, Chika, or Hyuse). Their name/age remain undecided, but their approved Gunner build, 14 Trion, 9500 solo points, BB Gun MVP history, quiet personality, female Sniper teammate, and Bullet Line Side Effect are documented under `03_Characters/Original/`. Do not invent unapproved details.
 
 LOCKED published-canon cutoff: **end of manga chapter 196 (volume 22)**, after B-Rank Wars Round 8. The author explicitly confirmed this point. Manga chapters 197 onward are not project canon automatically. Subsequent Neighbor-world expedition and return are author-defined hypothetical ending, not manga canon. Kuga Yuma returns to normal human condition, no longer in previous white-haired/no-sleep condition, and becomes S-rank. Osamu, Chika, Hyuse stay together in experienced upper B-rank squad; Kuga is NOT automatically an active member of this B squad.
 
@@ -20,3 +20,6 @@ The author locks canon at the END of chapter 196. Read `01_Source_Canon/Border_P
 
 ## Author-approved hypothetical ending and opening (latest)
 After manga ch196, the main cast participates in a Neighbor-world exploration, rescues important person(s) (identity unspecified), and returns. Kuga is cured using Neighbor technology, becomes a normal human, retains **his original Black Trigger**, and is an S-rank agent. Hyuse relocates permanently to Earth. Across the peaceful ~4–5-year bridge, Osamu, Chika, and Hyuse continue serving as the same experienced upper B-rank team. Osamu's Trion becomes standard (exact numeric value UNKNOWN); Chika can now shoot human opponents and use ranged Triggers normally; Hyuse is the team's ace. The new OC protagonist opens the novel by applying for a position/organization **not yet identified**. Do not invent rescued identities, cure mechanism, application target, or development dates. Reconcile any older future-loadout UNKNOWN text: Kuga's Black Trigger is now confirmed, but its specifications after cure are not.
+
+## Protagonist knowledge gate
+Read `03_Characters/Original/OC-PROTAGONIST.md`, `OC-Hidden-Side-Effect.md`, `OC-SNIPER-FRIEND.md`, and `OC-Two-Person-Squad.md`. Bullet Line perception includes projectile trajectories in sight/attention, but does not reveal a hidden Sniper's position; the protagonist fixates on visible targets. Protagonist and teammates do not recognize the power until after Hound use. Proposed names, stats and secondary mechanics are not author approved.
