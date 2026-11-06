@@ -5,8 +5,11 @@ tier: source_canon
 status: draft
 source_scope: pre_future_source_snapshot
 future_compatible: false
+chapter196_full_slot_verified: false
 ---
-# Trigger users and demonstrated abilities — additional agents
+# Trigger users and demonstrated abilities — NOT guaranteed equipped at ch196
+
+> ⚠️ This list mixes historical and later-known Trigger usage. To write at end of ch196, consult [[Chapter_196_Status_Matrix]] and check chapter citations. No row in this index alone guarantees 8 slots at cutoff.
 
 ข้อมูลนี้เสริม [[Agent_Loadouts]] / [[Additional_Agent_Profiles]]. อ้างอิงบัญชี [Border Briefing File / Trigger Users](https://worldtrigger.fandom.com/wiki/Border_Briefing_File/Trigger_Users), [Border roster](https://worldtrigger.fandom.com/wiki/Border), [Official databook parameter transcription](https://worldtrigger.fandom.com/wiki/Border_Briefing_File/Character_Stats). 
 **รายการ Trigger คือชนิดที่ยืนยันว่าใช้หรือเคยใช้ ไม่ใช่ทุกสล็อต Main/Sub ปัจจุบัน** (ถ้าต้องการสล็อตครบให้ตรวจหน้า Profile รายคน; แหล่งนี้ไม่ได้แจกแจงทุก slot) `past` และ `temporary` ห้ามนับเป็น loadout ถาวร
