@@ -15,17 +15,15 @@ source_coverage: mixed
 
 **Temporal traps:** Nasu #7 (as of ch198) and Hiura farewell (ch199) are **not valid** at cutoff. Later expedition test squad affiliations (ch203+) are also excluded. Historical BBF and later Wiki snapshots must not silently override ch196.
 
-## Agent matrix (all rostered from prior inventory)
+## Agent matrix (109 unique rostered persons from prior inventory)
 
 | Agent | Squad from secondary roster | Role | Trigger evidence / status | Verification | Notes |
 |---|---|---|---|---|---|
-| Tsukihiko Amō | S-rank ในต้นฉบับ | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| Black Trigger user | S-rank ในต้นฉบับ | Operator | not_combat_loadout | roster_secondary_pending_ch196 | Operator, not fighter |
-| Yūichi Jin | อิสระ | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| Attacker / former S-rank; Side Effect เห็นอนาคตหลายความเป็นไปได้ | อิสระ | Operator | not_combat_loadout | roster_secondary_pending_ch196 | Operator, not fighter |
-| Reiji Kizaki | Tamakoma First | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| Kirie Konami | Tamakoma First | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| Kyōsuke Karasuma | Tamakoma First | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Tsukihiko Amō | S-rank ในต้นฉบับ | Black Trigger user | Black Trigger (identity/slots not confirmed here) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Yūichi Jin | อิสระ | Attacker | Scorpion, Fūjin (Black Trigger, historical) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Reiji Kizaki | Tamakoma First | All-Rounder | Raygust, Full Arms and shooter triggers (slot details pending) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Kirie Konami | Tamakoma First | Attacker | Sōgetsu, Connector (slot details pending) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Kyōsuke Karasuma | Tamakoma First | All-Rounder | Kogetsu, gunner triggers, Geist (slot details pending) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
 | All-Rounder; Attacker; All-Rounder | Tamakoma First | Operator | not_combat_loadout | roster_secondary_pending_ch196 | Operator, not fighter |
 | Kei Tachikawa | #1 Tachikawa | Attacker, captain | Kogetsu x2, Senkū, Shield, Grasshopper, Bagworm | known_used_slot_not_verified | A #1 squad vs Attacker #1 separate |
 | Kōhei Izumi | #1 Tachikawa | Shooter | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
@@ -90,8 +88,7 @@ source_coverage: mixed
 | Mako Hitomi | #6 Azuma | Operator | not_combat_loadout | roster_secondary_pending_ch196 | Operator, not fighter |
 | Rei Nasu | #7 Nasu | Shooter, captain | Viper, Asteroid, Meteor, Shield | known_used_slot_not_verified | Her #7 ranking references ch198, EXCLUDE |
 | Yūko Kumagai | #7 Nasu | Attacker | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| Akane Hiura | #7 Nasu | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
-| departure/farewell in ch199 EXCLUDED) | #7 Nasu | unclassified | UNKNOWN | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
+| Akane Hiura | #7 Nasu (rank ch198 excluded) | Sniper | Lightning (former listing is later) | roster_secondary_pending_ch196 | Rank is NOT verified as-of ch196 |
 | Sayoko Shiki | #7 Nasu | Operator | not_combat_loadout | roster_secondary_pending_ch196 | Operator, not fighter |
 | Takuma Yuba | #8 Yuba | Gunner, captain | Asteroid, Viper (handguns) | known_used_slot_not_verified | Round 8 participant |
 | Yukari Obishima | #8 Yuba | Attacker | Kogetsu | known_used_slot_not_verified | Round 8 participant |
