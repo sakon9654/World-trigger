@@ -6,9 +6,11 @@ status: draft
 source: https://worldtrigger.fandom.com/wiki/Border_Briefing_File/Character_Stats
 source_kind: official_databook_transcribed_by_fan_wiki
 stat_scope: original_databook_and_manga
+chapter196_snapshot: false
+verification_for_ch196: not_established
 future_snapshot: false
 ---
-# Battle parameters — Border Briefing File / Manga (source snapshot)
+# Battle parameters — Border Briefing File / Manga (historical, NOT ch196)
 
 ค่าจาก [ตารางสรุป Character Stats](https://worldtrigger.fandom.com/wiki/Border_Briefing_File/Character_Stats). ตัวเลข **ไม่ใช่ค่าที่เพิ่ม 4–5 ปี** และไม่ใช่ระดับของ OC. ค่า `—` หมายถึงไม่มีข้อมูลในตาราง ไม่ใช่ศูนย์. ค่า Trion เป็นระดับเทียบเคียงที่นำมาอ้างอิงได้ ไม่ใช่กำลังต่อสู้ทั้งหมด. คะแนน Total รวมพารามิเตอร์หลายประเภทและไม่ได้ใช้เทียบความสามารถต่างสไตล์โดยตรง.
 
