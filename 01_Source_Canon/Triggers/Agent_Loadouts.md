@@ -26,7 +26,7 @@ as_of: manga_reference_pre_future
 - https://worldtrigger.fandom.com/wiki/Kei_Tachikawa
 
 ## กฎต่อยอด
-- คุกะภาคใหม่เป็น S-rank และมนุษย์ปกติ (ผู้เขียนยืนยัน) **Future loadout = UNKNOWN** ไม่สรุปว่ายังถือ Black Trigger ชิ้นเดิม
+- คุกะภาคใหม่เป็น S-rank และมนุษย์ปกติ (ผู้เขียนยืนยัน) **Future Black Trigger = original Kuga Black Trigger (approved)**; สล็อต Trigger อื่นและความสามารถหลังรักษายัง UNKNOWN
 - โอซามุ จิกะ ฮิวส์ยังเป็นทีม B ชั้นบน; Future loadouts = UNKNOWN จนกว่าผู้เขียนเลือก
 - ทุกอาวุธที่ไม่ทราบช่อง Main/Sub ต้องไม่เดาให้ลงช่องใดช่องหนึ่ง
 - เมื่อทราบวันติดตั้ง Trigger หรือการเปลี่ยน configuration ให้ทำ event และ character state ที่ `effective_from` กำกับ
