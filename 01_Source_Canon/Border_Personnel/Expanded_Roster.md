@@ -3,13 +3,15 @@ id: SRC-BORDER-ROSTER-EXPANDED
 type: agent_roster
 tier: source_canon
 status: draft
-as_of: reference_snapshot_pre_future
+as_of: mixed_2016_BBF_and_post_ch196_wiki
 ---
 # Border personnel — Expanded squad roster
 
 **การใช้งาน**: รายชื่อ/อันดับข้างล่างเป็น snapshot ของข้อมูลอ้างอิงจาก Wiki **ไม่ใช่อันดับในนิยาย T+4Y** และอาจไม่ตรงกับจุดหยุด canon ที่ผู้เขียนเลือก. ระบุ rank ทีมแยกจากอันดับบุคคล; rank ของ Operator ไม่มีชนิดเดียวกับนักสู้.
 
 แหล่ง: [Border roster](https://worldtrigger.fandom.com/wiki/Border), [Characters](https://worldtrigger.fandom.com/wiki/Characters), [Squads](https://worldtrigger.fandom.com/wiki/Squads).
+
+> ⚠️ **Temporal quarantine — Chapter 196:** ตารางนี้เป็น mixed_reference (รวมข้อมูลหลังตอน 196) **ไม่ใช่ snapshot ณ ตอน 196**. ห้ามนำอันดับ/สถานะ former/current จากตารางนี้ใช้ก่อนตรวจ `Chapter_196_Status_Matrix.md`. ตัวอย่าง B-rank #7 Nasu อ้างตอน 198; การอำลา Hiura อยู่ตอน 199 ซึ่งเลย cutoff. https://worldtrigger.fandom.com/wiki/Nasu_Squad
 
 ## S / Special
 | ประเภท | เจ้าหน้าที่ | บทบาท |
@@ -41,7 +43,7 @@ as_of: reference_snapshot_pre_future
 | #4 Ikoma | Tatsuhito Ikoma (Attacker, captain); Satoshi Mizukami (Shooter); Kōji Oki (Sniper); Kai Minamisawa (Attacker) | Maori Hosoi |
 | #5 Ōji | Kazuaki Ōji (Attacker, captain); Kazuki Kurauchi (Shooter); Yutaka Kashio (Attacker) | Haya Kittaka |
 | #6 Azuma | Haruaki Azuma (Sniper, captain); Noboru Koarai (Attacker); Tsuneyuki Okudera (Attacker) | Mako Hitomi |
-| #7 Nasu | Rei Nasu (Shooter, captain); Yūko Kumagai (Attacker); Akane Hiura (former Sniper) | Sayoko Shiki |
+| #7 Nasu | Rei Nasu (Shooter, captain); Yūko Kumagai (Attacker); Akane Hiura (Sniper; departure/farewell in ch199 EXCLUDED) | Sayoko Shiki |
 | #8 Yuba | Takuma Yuba (Gunner, captain); Yukari Obishima (Attacker); Kazuto Tonooka (Sniper) | Nono Fujimaru |
 | #9 Suzunari First | Tatsuya Kuruma (Gunner, captain); Kō Murakami (Attacker); Taichi Betsuyaku (Sniper) | Yuka Kon |
 | #10 Arafune | Tetsuji Arafune (Sniper, captain); Atsushi Hokari (Sniper); Yoshito Hanzaki (Sniper) | Rin Kagami |
