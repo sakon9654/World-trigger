@@ -1,7 +1,7 @@
 ---
 id: CANON-CUTOFF
 type: source_boundary
-status: proposed
+status: locked
 cutoff_chapter: 196
 cutoff_volume: 22
 cutoff_title: "Tamakoma Second 24 / 玉狛第二㉔"
@@ -15,11 +15,11 @@ verified_sources:
   - https://worldtrigger.fandom.com/wiki/Tamakoma_Second_24
   - https://worldtrigger.fandom.com/wiki/Story_Arcs
 ---
-# Canon Cutoff: Chapter 196 (Volume 22) — รอผู้เขียนยืนยัน
+# Canon Cutoff: Chapter 196 (Volume 22) — ผู้เขียนยืนยันแล้ว
 
 จากคำอธิบายผู้เขียนว่า "พวกพระเอกเจอกับกลุ่มบนระดับ B ในการสอบเลื่อนระดับรอบสุดท้าย" ตรงกับการแข่งขัน **B-Rank Wars รอบ 8** ระหว่าง Tamakoma Second, Ninomiya, Ikoma และ Yuba ใน **ตอน 184–195** โดยตอน 196 ชื่อ **Tamakoma Second 24 / 玉狛第二㉔** เป็นช่วงสรุปผลการแข่งขันและผลที่ตามมา
 
-**ข้อเสนอ**: ให้ใช้เนื้อเรื่องต้นฉบับถึง **จบตอน 196** (เล่ม 22) เป็น canon cutoff และให้ timeline สมมติเริ่มจากตอน 197 เป็นต้นไป แต่จุด T0 ในเรื่องที่แต่งยังหมายถึง **สิ้นสุดภารกิจ Neighbor และตอนจบสมมติ** ไม่ใช่จบตอน 196.
+**กติกาที่ผู้เขียนยืนยัน**: ใช้เนื้อเรื่องต้นฉบับถึง **จบตอน 196** (เล่ม 22) เป็น canon cutoff และให้ timeline สมมติเริ่มจากตอน 197 เป็นต้นไป แต่จุด T0 ในเรื่องที่แต่งยังหมายถึง **สิ้นสุดภารกิจ Neighbor และตอนจบสมมติ** ไม่ใช่จบตอน 196.
 
 ข้อควรแยก:
 - จบการต่อสู้รอบ 8: ตอน 195
@@ -30,7 +30,7 @@ verified_sources:
 นี่คือ **B-Rank Wars รอบ 8** ไม่ใช่ A-rank promotion examination ที่พิสูจน์ว่าพวกเขาได้ A-rank.
 หากผู้เขียนหมายถึงบทก่อนแข่งขันจบหรือเหตุการณ์สอบแบบอื่น ต้องแก้ cutoff นี้
 
-## Canon facts at proposed cutoff
+## Canon facts at locked cutoff
 - Tamakoma Second ได้อันดับ B #2 หลัง Round 8; Ninomiya Squad ยัง #1
 - Osamu, Yuma, Chika, Hyuse อยู่ทีมเดียวกัน ณ ข้อมูลช่วงต้นฉบับ
 - การเดินทางไปโลกเนเบอร์ การรักษาคุกะ และ S-rank หลังกลับมาเป็น **hypothetical ending** ไม่ใช่เหตุการณ์จากตอน 196
@@ -41,4 +41,4 @@ verified_sources:
 - https://worldtrigger.fandom.com/wiki/Tamakoma_Second_24
 - https://worldtrigger.fandom.com/wiki/Story_Arcs
 
-ต้องตรวจต้นฉบับฉบับที่ใช้อ้างอิงเพื่อยืนยันรายละเอียดหน้า/ตอน และเปลี่ยน `status` เป็น `approved` หลังผู้เขียนรับรองจุดแยก
+ผู้เขียนยืนยัน **จบตอน 196** เป็นจุดแยกแล้ว (`locked`). ความแม่นยำของรายละเอียดที่อ้างจากแหล่งรองยังต้องตรวจเทียบมังงะต้นฉบับแยกต่างหาก
