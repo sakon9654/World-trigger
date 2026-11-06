@@ -34,5 +34,5 @@ trigger:
 - **Trion ที่เสนอ 6**; Attack 6 / Defense-Support 6 / Mobility 5 / Skill 8 / Range 8 / Command 7 / Special Tactics 7 — ทั้งหมดเป็นค่าที่เสนอ
 - **Loadout ที่เสนอ:** Main Egret, Lightning, Shield, empty; Sub Bagworm, Shield, empty, empty. ยังไม่ถือเป็น Trigger ที่ล็อก
 - ความสัมพันธ์ที่เสนอ: เพื่อนที่รู้จักกันก่อนตั้งทีม แต่ไม่กำหนดว่ารู้จักตั้งแต่เมื่อใด ไม่สมมติว่าเป็นคู่รัก
-- เธออาจเริ่มสังเกตความผิดปกติด้านการอ่านจังหวะของพระเอกก่อนตัวเขาเอง แต่ยัง **ไม่รู้ข้อเท็จจริง** เกี่ยวกับ Side Effect
+- เธออาจมีส่วนสังเกตหรือทดลอง **Bullet Line** หลังพระเอกฝึก Hound แต่ยังไม่กำหนดว่าเธอเป็นคนค้นพบก่อนหรือไม่; ช่วงเริ่มเรื่อง **เธอไม่รู้ว่าเขามี Side Effect**
 - เชื่อมกับ [[OC-Two-Person-Squad]] และ [[OC-Hidden-Side-Effect]]
