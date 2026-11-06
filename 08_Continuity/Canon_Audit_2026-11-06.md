@@ -54,3 +54,11 @@ audit_method: source_cross_check
 
 ## Note for narrative AI
 Read this audit before referring to source canon. Fact with `status:draft` should be phrased as *unverified reference*, not established canon; this report confirms only explicitly listed findings, **not** that the whole database is fully correct.
+
+## Follow-up: Chapter 196 temporal audit
+- Identified **post-cutoff bleed**: Nasu B #7 is cited to chapter **198**, and Akane Hiura's formal farewell is chapter **199**. Both cannot be claimed as completed at ch196. Sources: https://worldtrigger.fandom.com/wiki/Nasu_Squad
+- Created `01_Source_Canon/Border_Personnel/Chapter_196_Status_Matrix.md`: 109 distinct persons extracted from legacy squad inventory with status/evidence gates. **Coverage inventory is not 109 verified profiles**.
+- Verified Round-8 Osamu loadout against https://worldtrigger.fandom.com/wiki/Osamu_Mikumo/Abilities; the generic character profile conflates earlier builds.
+- Chapter 196 follows Round 8 battle (chapters 184–195). Source: https://worldtrigger.fandom.com/wiki/Tamakoma_Second_24 and https://worldtrigger.fandom.com/wiki/Tamakoma_Second_vs._Ninomiya_Squad_vs._Ikoma_Squad_vs._Yuba_Squad
+- Trigger Users page indexes usage, not full equipped slots: https://worldtrigger.fandom.com/wiki/Border_Briefing_File/Trigger_Users
+- **NOT COMPLETE**: all agent Main/Sub slots, each rank as of ch196, original BBF stat row checks and supporting manga page citations remain open.
