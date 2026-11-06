@@ -11,3 +11,6 @@ status: approved
 สถานะใช้ `draft`, `proposed`, `approved`, `locked`, `deprecated`
 
 กฎ: อย่าอ้างตอนจบสมมติเป็นข้อเท็จจริงของมังงะ; อย่าผูกสถานะ S-rank ของคุกะเข้ากับทีม B ประจำ; ถ้าข้อมูลยังไม่กำหนดให้เขียน UNKNOWN; source canon ใหม่หลัง cutoff ไม่แทนที่ความตกลงผู้เขียนอัตโนมัติ
+
+## Locked boundary
+Project source canon ends **after chapter 196, volume 22**. Manga content from chapter 197 onward must not override this project's hypothetical ending without explicit author approval. T0 remains the conclusion of the fictional Neighbor expedition/ending, not chapter 196.
