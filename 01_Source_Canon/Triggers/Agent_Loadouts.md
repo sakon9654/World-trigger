@@ -45,3 +45,6 @@ Source: https://worldtrigger.fandom.com/wiki/Osamu_Mikumo/Abilities (ตาร�
 - แม้หน้าตัวละครแสดงชุด Trigger ล่าสุด ต้องเลือกชุดตามเหตุการณ์ที่ผู้เขียนใช้เป็น cutoff
 - Rank Wars และช่วงสอบคัดเลือกเป็นคนละ event; แยกเวลาเมื่อกำหนด scene
 - ความเป็น S-rank ของคุกะใน T+4Y ยังไม่ใช่ source_canon
+
+## Future continuity override (author approved)
+Kuga's future S-rank loadout **does include his original Black Trigger** after the Neighbor-world cure. This supersedes earlier UNKNOWN notes for whether he retains that Black Trigger; other future slots and capabilities remain unspecified. This is fictional continuity, not manga canon.
