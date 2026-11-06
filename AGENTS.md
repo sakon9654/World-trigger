@@ -11,3 +11,6 @@ Every fact has `tier` (source_canon / hypothetical_ending / future_continuity / 
 
 For scene generation load story timeline, characters' as-of state, relationship snapshots, knowledge transferred before the scene, and reader disclosure limits. Differentiate `occurred_at`, `learned_at`, `revealed_to_reader_at`; no future knowledge leaks. Log contradictions as proposed retcons; do not silently edit approved facts.
 Use Markdown YAML and stable IDs with Obsidian wikilinks; never copy extended copyrighted source passages.
+
+## Canon-audit gate
+Read `08_Continuity/Canon_Audit_2026-11-06.md` before generating facts about Border ranks, weapon slots, Trion or Side Effects. Never treat an entire `status: draft` reference table as verified simply because some rows match. For canon verification prefer Shueisha/manga/BBF with chapter/page evidence; distinguish original 2016 BBF squad ranks from subsequent B-rank season standings; keep Osamu Trigger Main/Sub per Rank Wars round. If no direct verification, state uncertainty rather than fabricate. `source_canon` tier means intended provenance, not automatic verification.
