@@ -2,7 +2,7 @@
 id: VOL-01-CH-03
 type: novel_chapter
 tier: original_fiction
-status: draft_for_author_review
+status: author_approved
 volume: VOL-01
 chapter: 3
 title: 9,500 คะแนน
