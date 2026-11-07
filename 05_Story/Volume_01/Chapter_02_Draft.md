@@ -2,7 +2,7 @@
 id: VOL-01-CH-02
 type: novel_chapter
 tier: original_fiction
-status: draft_for_author_review
+status: author_approved
 volume: VOL-01
 chapter: 2
 title: งานอดิเรกของสองพี่น้อง
