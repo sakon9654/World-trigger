@@ -2,7 +2,7 @@
 id: VOL-01-CH-10
 type: novel_chapter
 tier: original_fiction
-status: draft_for_author_review
+status: author_approved
 volume: VOL-01
 chapter: 10
 title: เกม #1 — เปิดฉาก
