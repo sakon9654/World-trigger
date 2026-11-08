@@ -2,7 +2,7 @@
 id: VOL-01-CH-05
 type: novel_chapter
 tier: original_fiction
-status: draft_for_author_review
+status: author_approved
 volume: VOL-01
 chapter: 5
 title: พี่สาวที่สอบผ่าน
